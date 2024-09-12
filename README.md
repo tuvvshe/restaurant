@@ -59,7 +59,7 @@ You can see all menu items by clicking ALL button, and items in particular categ
 ###Add new item
 1. Click "Manage menu items" Button on the left
 2. Click "Add new menu item" button
-3. Fill in all information and click OK
+3. Fill in all information and click Ok
 
 ###Edit menu item
 1. Click "Manage menu items" Button on the left
